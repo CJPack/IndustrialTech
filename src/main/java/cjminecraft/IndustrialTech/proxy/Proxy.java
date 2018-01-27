@@ -1,6 +1,4 @@
-package net.cjminecraft.IndustrialTech.proxy;
-
-import net.cjminecraft.IndustrialTech.base.ITItem;
+package cjminecraft.IndustrialTech.proxy;
 
 public class Proxy {
 

@@ -1,6 +1,6 @@
-package net.cjminecraft.IndustrialTech.proxy;
+package cjminecraft.IndustrialTech.proxy;
 
-import net.cjminecraft.IndustrialTech.base.ITItem;
+import cjminecraft.IndustrialTech.base.ITItem;
 
 public class Client extends Proxy {
 

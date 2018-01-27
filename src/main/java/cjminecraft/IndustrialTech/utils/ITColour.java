@@ -1,4 +1,4 @@
-package net.cjminecraft.IndustrialTech.utils;
+package cjminecraft.IndustrialTech.utils;
 
 public enum ITColour {
     BLACK("§0"),
